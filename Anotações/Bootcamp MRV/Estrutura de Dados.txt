@@ -1,0 +1,52 @@
+Estrutura de dados: é uma estrutura organizada de dados na memoria do computador ou qualquer dispositivo de armazenamento.
+
+Principais estrutura de dados:
+Registro
+lista
+pilha
+fila
+arvore
+tabela hash
+grafos
+
+Vetores e matrizes ou arrays são estrutura de dados.
+
+\n serve para quebrar a linha. (quebra de fonte0
+
+\t\t tabulação. mesmo que da dois espaços
+
+Matriz tambem chamada de Arrays é um vetor de vetores. Possui duas ou mais dimensoes
+
+Registro é uma estrutura que fornece um formato especializado para armazenar informações em memoria
+Diferente dos Arrays/Matriz
+Um registro é possivel armazenar dados de um tipo diferente. Exemplo; cpf, data, nome, numero e etc...
+
+Lista: armazena os dados de um determinado tipo em uma ordem especifica
+Existe dois tipos de lista 
+LIGADA E DUPLAMENTE LIGADAS
+
+PILHAS: serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenados.
+Dois tipos de lista
+LIFO (INGLES) OU UEPS(Utimo a entrar Primeiro a Sair) ultimo a ser inserido ou modificado
+FIFO (INGLES)OU PEPS(Primeiro a entrar Primeiro a Sair) primeiro a ser inserido ou modificado
+
+FILAS: a estrutura do tipo Fila admite remoção de elemento e inserção de novos sujeita a seguinte regra de operação.
+Remove primeiro o que esta na estrutura a mais tempo, ou seja o primeiro objeto na fila é tambem o primeiro a ser removido seguindo o conceito PEPS.
+
+ARVORE: Organiza seus elementos de uma forma hierarquixa, onde existe um elementoque fica no topo da arvore, chamado de raiz e existem os elementos surbordinados a ele, que sao chamados de nós ou folhas.
+
+TABELA HASH: conhecido como tabela de espalhamento ou disperção é uma estrutura de dados especial, que associa chaves de pesquisa a valores
+
+Hashing uma tabela hash é uma generalização da ideia de array, porem utiliza uma função denominada hashing para espalhar elementos, fazendo com que os mesmos fiquem de forma nao ordenada dentro do array que define a tabela
+ 
+GRAFOS: são estruturas que permitem programar a relação entre objetos
+Objetos são vertices ou "nós" do grafos.
+Os relacionamentos são arestas
+
+
+
+
+
+
+
+

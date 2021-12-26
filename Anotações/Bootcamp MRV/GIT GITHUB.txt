@@ -1,0 +1,10 @@
+GIT GITHUB
+SSH KEY: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMUJj2pKvBFcgphSXgzOQok4RVXokPUs/5QHzN504xwT doondjc@gmail.com
+SENHA: 9907
+
+GIT ADD *
+GIT COMMIT -M "NOME QUE VOU DA"
+Para commitar algum arquivo
+
+Git push origin master (para empurrar um arquivo para o gitHub)
+Git pull origin master (para puxar um arquivo do github que foi motificado externamente)

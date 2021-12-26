@@ -1,5 +1,8 @@
-# Desafio-GitHub
+# DESAFIO BOOTCAMP MRV FULLSTACK
 Repositorio criado para o Desafio de Projeto
 
-## Links-Uteis
-[Sintaxe básica Makedown](https://www.markdownguide.org/basic-syntax/)
+## O que encontramos neste desafio:
+Anotações básicas sobre todo o tema do Bootcamp
+Duvidas e Conclusões 
+Certificações adquirida ao decorrer do mesmo.
+e mais...
